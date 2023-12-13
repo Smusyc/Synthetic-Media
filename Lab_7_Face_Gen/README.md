@@ -8,12 +8,17 @@
 
 ## Результаты
 ![загруженное (1)](https://github.com/Smusyc/Synthetic-Media/assets/43301245/635c857a-a0f0-4553-9b2c-91910fccc94c)
+
 Рисунок 1 – Генерация лиц
 
+
 ![загруженное (3)](https://github.com/Smusyc/Synthetic-Media/assets/43301245/cedcbac1-9d47-4d7a-9fa6-8f2585903b02)
+
 Рисунок 2 – Интерполяция лиц
 
+
 ![загруженное (2)](https://github.com/Smusyc/Synthetic-Media/assets/43301245/d6d9b9bf-6a76-41bb-88c4-9aebb045bf8b)
+
 Рисунок 3 – Замена лиц
 
 
