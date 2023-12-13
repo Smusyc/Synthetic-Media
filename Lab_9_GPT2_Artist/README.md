@@ -3,7 +3,7 @@
 Далее представлены метрики accuracy и loss для нескольких проведенных экспериментов. Эксперименты отличаются размерами batch и процентом dropout
 
 ## Графики обучения batch равном 32 при отключенном dropout.
-![auc_d15](https://github.com/Smusyc/Synthetic-Media/assets/43301245/8861203f-e949-43dc-b6da-c3055d0d782b)
+77ccd3185b89439683cfb8bb3dffa8fb
 Рисунок 1 - accuracy при batch равном 32
 
 ![loss_d15](https://github.com/Smusyc/Synthetic-Media/assets/43301245/040a1106-94d8-4fa8-8c27-b72cd6942894)
